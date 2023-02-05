@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    }
+  ],
+  "books": [
+    {
+      "name": "One Piece 1",
+      "cover": "http://www.guiadosquadrinhos.com/edicao/ShowImage.aspx?id=94330&path=panini/o/on01110001.jpg&w=400&h=593",
+      "published": "Junho de 2012",
+      "publishingCompany": "Panini",
+      "numberPages": 196,
+      "licensor": "Sueisha",
+      "category": "Revista periódica",
+      "genre": "Mangá",
+      "art": "Eiichiro Oda",
+      "editor": "Beth Kodama"
+    },
+    {
+      "name": "One Piece 2",
+      "cover": "http://www.guiadosquadrinhos.com/edicao/ShowImage.aspx?id=96339&path=panini/o/on01110002.jpg&w=400&h=596",
+      "published": "Marco de 2012",
+      "publishingCompany": "Panini",
+      "numberPages": 204,
+      "licensor": "Sueisha",
+      "category": "Revista periódica",
+      "genre": "Mangá",
+      "art": "Eiichiro Oda",
+      "editor": "Beth Kodama"
+    },
+    {
+      "name": "One Piece 3",
+      "cover": "http://www.guiadosquadrinhos.com/edicao/ShowImage.aspx?id=97534&path=panini/o/on01110003.jpg&w=400&h=599",
+      "published": "Abril de 2012",
+      "publishingCompany": "Panini",
+      "numberPages": 204,
+      "licensor": "Sueisha",
+      "category": "Revista periódica",
+      "genre": "Mangá",
+      "art": "Eiichiro Oda",
+      "editor": "Beth Kodama"
+    },
+    {
+      "name": "One Piece 4",
+      "cover": "http://www.guiadosquadrinhos.com/edicao/ShowImage.aspx?id=98149&path=panini/o/on01110004.jpg&w=400&h=605",
+      "published": "Maio de 2012",
+      "publishingCompany": "Panini",
+      "numberPages": 196,
+      "licensor": "Sueisha",
+      "category": "Revista periódica",
+      "genre": "Mangá",
+      "art": "Eiichiro Oda",
+      "editor": "Beth Kodama"
+    },
+    {
+      "name": "One Piece 5",
+      "cover": "http://www.guiadosquadrinhos.com/edicao/ShowImage.aspx?id=98863&path=panini/o/on01110005.jpg&w=400&h=590",
+      "published": "Junho de 2012",
+      "publishingCompany": "Panini",
+      "numberPages": 196,
+      "licensor": "Sueisha",
+      "category": "Revista periódica",
+      "genre": "Mangá",
+      "art": "Eiichiro Oda",
+      "editor": "Beth Kodama"
+    }
+  ]
+}
