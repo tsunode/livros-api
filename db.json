@@ -11,68 +11,48 @@
   "books": [
     {
       "id": 1,
-      "name": "One Piece 1",
-      "cover": "http://www.guiadosquadrinhos.com/edicao/ShowImage.aspx?id=94330&path=panini/o/on01110001.jpg&w=400&h=593",
-      "published": "Junho de 2012",
-      "publishingCompany": "Panini",
-      "numberPages": 196,
-      "licensor": "Sueisha",
-      "category": "Revista periódica",
-      "genre": "Mangá",
-      "art": "Eiichiro Oda",
-      "editor": "Beth Kodama"
+      "name": "O vendedor de sonhos",
+      "cover": "https://m.media-amazon.com/images/I/510yaGfR+pL._SX333_BO1,204,203,200_.jpg",
+      "published": "Junho de 2008",
+      "publishingCompany": "Dreamsellers Editora",
+      "numberPages": 256,
+      "author": "Augusto Cury"
     },
     {
       "id": 2,
-      "name": "One Piece 2",
-      "cover": "http://www.guiadosquadrinhos.com/edicao/ShowImage.aspx?id=96339&path=panini/o/on01110002.jpg&w=400&h=596",
-      "published": "Marco de 2012",
-      "publishingCompany": "Panini",
-      "numberPages": 204,
-      "licensor": "Sueisha",
-      "category": "Revista periódica",
-      "genre": "Mangá",
-      "art": "Eiichiro Oda",
-      "editor": "Beth Kodama"
+      "name": "O Caçador de Pipas",
+      "cover": "https://m.media-amazon.com/images/I/41Y7PgDiJ-L._SY344_BO1,204,203,200_QL70_ML2_.jpg",
+      "published": "Maio de 2003",
+      "publishingCompany": "NOVA FRONTEIRA",
+      "numberPages": 368,
+      "author": "Lhaled Hosseini"
     },
     {
       "id": 3,
-      "name": "One Piece 3",
-      "cover": "http://www.guiadosquadrinhos.com/edicao/ShowImage.aspx?id=97534&path=panini/o/on01110003.jpg&w=400&h=599",
-      "published": "Abril de 2012",
-      "publishingCompany": "Panini",
-      "numberPages": 204,
-      "licensor": "Sueisha",
-      "category": "Revista periódica",
-      "genre": "Mangá",
-      "art": "Eiichiro Oda",
-      "editor": "Beth Kodama"
+      "name": "Do Mil ao Milhão",
+      "cover": "https://m.media-amazon.com/images/I/41TsvI70n9L._SX335_BO1,204,203,200_.jpg",
+      "published": "Novembro de 2018",
+      "publishingCompany": "HarperCollins",
+      "numberPages": 192,
+      "author": "Thiago Nigro"
     },
     {
       "id": 4,
-      "name": "One Piece 4",
-      "cover": "http://www.guiadosquadrinhos.com/edicao/ShowImage.aspx?id=98149&path=panini/o/on01110004.jpg&w=400&h=605",
-      "published": "Maio de 2012",
-      "publishingCompany": "Panini",
-      "numberPages": 196,
-      "licensor": "Sueisha",
-      "category": "Revista periódica",
-      "genre": "Mangá",
-      "art": "Eiichiro Oda",
-      "editor": "Beth Kodama"
+      "name": "O menino do pijama listrado",
+      "cover": "https://m.media-amazon.com/images/I/41lCCL6N4nL._SX330_BO1,204,203,200_.jpg",
+      "published": "Novembro de 2018",
+      "publishingCompany": "Seguinte",
+      "numberPages": 192,
+      "author": "John Boyne"
     },
     {
       "id": 5,
-      "name": "One Piece 5",
-      "cover": "http://www.guiadosquadrinhos.com/edicao/ShowImage.aspx?id=98863&path=panini/o/on01110005.jpg&w=400&h=590",
-      "published": "Junho de 2012",
-      "publishingCompany": "Panini",
-      "numberPages": 196,
-      "licensor": "Sueisha",
-      "category": "Revista periódica",
-      "genre": "Mangá",
-      "art": "Eiichiro Oda",
-      "editor": "Beth Kodama"
+      "name": "O silêncio das montanhas",
+      "cover": "https://m.media-amazon.com/images/I/51d3Hmr2flL._SY344_BO1,204,203,200_QL70_ML2_.jpg",
+      "published": "Novembro de 2018",
+      "publishingCompany": "Globo",
+      "numberPages": 352,
+      "author": "Khaled Hosseini"
     }
   ]
 }
