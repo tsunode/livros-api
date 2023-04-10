@@ -1,6 +1,8 @@
 const jsonServer = require("json-server");
 const auth = require("json-server-auth");
 const cors = require("cors");
+
+const routesAuth = require('./routes.json');
 const port = process.env.PORT || 3001;
 
 const app = jsonServer.create();
@@ -8,9 +10,7 @@ const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults()
 app.db = router.db;
 
-const rules = auth.rewriter({
-  users: 600,
-});
+const rules = auth.rewriter(routesAuth);
 
 app.use(middlewares);
 app.use(cors());
